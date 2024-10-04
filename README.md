@@ -1,2 +1,2 @@
 # SQL-ZOO-Solutions
-Solutions for the exercises on https://sqlzoo.net/
+Solutions to the practice exercises on https://sqlzoo.net/
